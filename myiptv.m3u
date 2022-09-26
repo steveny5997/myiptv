@@ -62,23 +62,25 @@ http://192.168.5.1:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BRTV卡酷少儿高清
 http://192.168.5.1:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="翡翠台" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",TVB翡翠
-https://ktiptv.cf:443/2209077624/12345/492383
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=1
 #EXTINF:-1 tvg-name="" group-title="香港" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png",TVB星河
 https://ktiptv.cf:443/2209077624/12345/492384
 #EXTINF:-1 tvg-name="明珠台" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB明珠
-https://ktiptv.cf:443/2209077624/12345/492386
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
 #EXTINF:-1 tvg-name="无线新闻" group-title="香港" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-news-hk.png",TVB無線新聞
-https://ktiptv.cf:443/2209077624/12345/492389
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20
 #EXTINF:-1 tvg-name="无线财经" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",TVB無線財經
-https://ktiptv.cf:443/2209077624/12345/492390
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=19
 #EXTINF:-1 tvg-name="有线新闻台" group-title="香港" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hkc_news_channel.png",有線新聞
-https://ktiptv.cf:443/2209077624/12345/492391
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
+#EXTINF:-1 tvg-logo="https://www.img.xz95.top/img/wikipedia/zh/thumb/0/05/I-CABLE_Sports_Channel.png/220px-I-CABLE_Sports_Channel.png" group-title="香港",有线体育
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=28
 #EXTINF:-1 tvg-name="" group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Now_Live_News_logo.svg",Now 直播台
-https://ktiptv.cf:443/2209077624/12345/889359
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=11
 #EXTINF:-1 tvg-name="" group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Now_News_logo.svg",Now 新闻台
-https://ktiptv.cf:443/2209077624/12345/889360
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="香港",[HK] Viu TV
-https://ktiptv.cf:443/2209077624/12345/870528
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="香港",[HK] Viu TV 6
 https://ktiptv.cf:443/2209077624/12345/877042
 #EXTINF:-1 tvg-name="凤凰中文" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",鳳凰衛視
@@ -86,27 +88,31 @@ https://ktiptv.cf:443/2209077624/12345/492398
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",鳳凰資訊
 https://ktiptv.cf:443/2209077624/12345/492399
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live072.jpg" group-title="台湾",TVBS新闻
-https://ktiptv.cf:443/2209077624/12345/870536
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=81
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv009.jpg" group-title="台湾",中天新闻
 https://ktiptv.cf:443/2209077624/12345/870539
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="台湾",HBO HD
 https://ktiptv.cf:443/2209077624/12345/870553
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHITS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="台湾",HBO强档钜献
 https://ktiptv.cf:443/2209077624/12345/870554
-#EXTINF:-1 tvg-id="691" tvg-name="	国家地理频道(台湾)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="台湾",国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道(台湾)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="台湾",国家地理
 https://ktiptv.cf:443/2209077624/12345/870687
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="台湾",动物星球
 https://ktiptv.cf:443/2209077624/12345/870689
 #EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="台湾",美食星球
 https://ktiptv.cf:443/2209077624/12345/870683
 #EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="台湾",爱尔达体育1
-https://ktiptv.cf:443/2209077624/12345/879250
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=46
 #EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="台湾",爱尔达体育2
 https://ktiptv.cf:443/2209077624/12345/879251
 #EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1745.png" group-title="台湾",爱尔达体育3
 https://ktiptv.cf:443/2209077624/12345/879252
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/videoland_sport.png" group-title="台湾",纬来体育
-https://ktiptv.cf:443/2209077624/12345/877061
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=83
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="台湾",ELEVEN体育一台
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=50
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾",ELEVEN体育二台
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=51
 #EXTINF:-1 tvg-id="820" tvg-name="EUROSPORT" tvg-logo="https://www.seekpng.com/png/full/471-4717071_eurosport-hd-logo-euro-sport-hd.png" group-title="欧美",EUROSPORT
 https://ktiptv.cf:443/2209077624/12345/26324
 #EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc_sports_california_plus.png" group-title="欧美",NBC Sports
@@ -147,7 +153,6 @@ https://ktiptv.cf:443/2209077624/12345/869639
 https://ktiptv.cf:443/2209077624/12345/869640
 #EXTINF:-1 group-title="体育" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-espn-uk.png",BT Sports ESPN
 https://ktiptv.cf:443/2209077624/12345/869642
-
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://192.168.5.1:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
