@@ -83,10 +83,10 @@ https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="香港",[HK] Viu TV 6
 https://ktiptv.cf:443/2209077624/12345/877042
-#EXTINF:-1 tvg-name="凤凰中文" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",鳳凰衛視
-https://ktiptv.cf:443/2209077624/12345/492398
+#EXTINF:-1 tvg-name="凤凰中文" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰卫视
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",鳳凰資訊
-https://ktiptv.cf:443/2209077624/12345/492399
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live072.jpg" group-title="台湾",TVBS新闻
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=81
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv009.jpg" group-title="台湾",中天新闻
