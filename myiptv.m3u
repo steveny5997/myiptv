@@ -12,7 +12,7 @@ http://192.168.5.1:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4欧洲高清
 http://192.168.5.1:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
-https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=064
+http://192.168.5.1:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
 http://192.168.5.1:4022/rtp/239.3.1.130:8004
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
