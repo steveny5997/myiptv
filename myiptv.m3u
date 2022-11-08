@@ -52,7 +52,7 @@ http://192.168.5.1:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png" group-title="北京",BRTV生活高清
 http://192.168.5.1:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-logo="https://github.com/steveny5997/myiptv/raw/main/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="北京",BRTV体育休闲高清
-http://111.20.33.70/TVOD/88888893/224/3221226232/index.m3u8
+http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E9%9D%92%E5%B9%B4.png" group-title="北京",BRTV青年高清
 http://192.168.5.1:4022/rtp/239.3.1.118:8000
 #EXTINF:-1 tvg-id="" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" group-title="北京",BRTV新闻高清
