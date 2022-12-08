@@ -118,7 +118,7 @@ http://dmtn.tv:8080/steveny5997/54332611/380002
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live204.jpg" group-title="欧美",CNN
 http://dmtn.tv:8080/steveny5997/54332611/267080
 #EXTINF:-1 tvg-id="7183" tvg-name="WorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="欧美",BBC新闻
-http://dmtn.tv:8080/steveny5997/54332611/380181
+http://dmtn.tv:8080/steveny5997/54332611/267152
 #EXTINF:-1 tvg-name="SkyNews" group-title="欧美" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-hd-vector-logo.png",天空新闻
 http://dmtn.tv:8080/steveny5997/54332611/248247
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: FOX NEWS CHANNEL (F)" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vm-hGaA1n9LMw2X9PJAKawW_YkRQ4hV4bO-gJNxE2WJxPEAEjki2j35vY7EHbLyLzW3LmGvUav6ZiP4ixhVMVVA.png" group-title="欧美",FOX新闻
@@ -127,8 +127,6 @@ http://dmtn.tv:8080/steveny5997/54332611/267089
 http://dmtn.tv:8080/steveny5997/54332611/267168
 #EXTINF:-1 tvg-id="TNTHD" tvg-name="US: TNT FHD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vi-9OYlzWEgxErmdW8BOZTfnXW5vyEXyEV-NJ5dRkZZQDodYoVx2SadGNSZ65HLCaSJM0BXQ5RcUOdpW-0us5iM.png" group-title="欧美",TNT
 http://dmtn.tv:8080/steveny5997/54332611/117386
-#EXTINF:-1 tvg-id="USAHD" tvg-name="US: USA NETWORK (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-VgpMX74vzBcSfKYk_eNSG1NNoQ7aKpGCCCmzgZmWXuOroy9j3uYIh2TnfwVYHxDB6Ri-t6DlSkrQreFt2FPvQQo.png" group-title="欧美",USA (EAST)
-http://dmtn.tv:8080/steveny5997/54332611/117577
 #EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="" group-title="体育",NBA HD NETWORK
 http://dmtn.tv:8080/steveny5997/54332611/370883
 #EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="USA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png" group-title="体育",USA
