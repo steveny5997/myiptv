@@ -115,16 +115,16 @@ https://ktiptv.cf:443/2209077624/12345/892531
 https://ktiptv.cf:443/2209077624/12345/879532
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport.my" tvg-name="MY| EUROSPORT FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjK1axgz19hLe8acqXVeJ1h7nAI_uyPgkURSzTKcsn6Q.png" group-title="体育",EUROSPORT
 http://dmtn.tv:8080/steveny5997/54332611/380002
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live204.jpg" group-title="欧美",CNN
-http://dmtn.tv:8080/steveny5997/54332611/267080
-#EXTINF:-1 tvg-id="7183" tvg-name="WorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="欧美",BBC新闻
-http://dmtn.tv:8080/steveny5997/54332611/267152
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live204.jpg" group-title="欧美",CNN国际
+http://dmtn.tv:8080/steveny5997/54332611/378170
+#EXTINF:-1 tvg-id="7183" tvg-name="WorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="欧美",BBC世界新闻
+http://dmtn.tv:8080/steveny5997/54332611/376320
 #EXTINF:-1 tvg-name="SkyNews" group-title="欧美" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-hd-vector-logo.png",天空新闻
 http://dmtn.tv:8080/steveny5997/54332611/158636
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: FOX NEWS CHANNEL (F)" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vm-hGaA1n9LMw2X9PJAKawW_YkRQ4hV4bO-gJNxE2WJxPEAEjki2j35vY7EHbLyLzW3LmGvUav6ZiP4ixhVMVVA.png" group-title="欧美",FOX新闻
-http://dmtn.tv:8080/steveny5997/54332611/267089
+http://dmtn.tv:8080/steveny5997/54332611/376317
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US: BLOOMBERG TV (S)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynkpQpw-CGMKCM7h6FhnCj8wdCXz5EonlzGkYsfSkEL1.png" group-title="欧美",彭博TV
-http://dmtn.tv:8080/steveny5997/54332611/267168
+http://dmtn.tv:8080/steveny5997/54332611/376326
 #EXTINF:-1 tvg-id="TNTHD" tvg-name="US: TNT FHD" tvg-logo="http://dmtn.tv:8080/images/e10BkES2tBu4HPUEEPB-Vi-9OYlzWEgxErmdW8BOZTfnXW5vyEXyEV-NJ5dRkZZQDodYoVx2SadGNSZ65HLCaSJM0BXQ5RcUOdpW-0us5iM.png" group-title="欧美",TNT
 http://dmtn.tv:8080/steveny5997/54332611/117386
 #EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="" group-title="体育",NBA HD NETWORK
@@ -178,11 +178,11 @@ http://dmtn.tv:8080/steveny5997/54332611/375889
 #EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD (V)" tvg-logo="" group-title="体育",ESPN 2
 http://dmtn.tv:8080/steveny5997/54332611/375890
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym3Z2_mFW7N-EL-kpFhE-KSCK8rd8vDk3kOcYI92AQaX.png" group-title="体育",FOX SPORTS 1
-http://dmtn.tv:8080/steveny5997/54332611/149363
+http://dmtn.tv:8080/steveny5997/54332611/376427
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: FOX SPORTS 2 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqrDHKv6recC3u-FXvRtjBhXJZtbry8DxEPInMO3PIsy.png" group-title="体育",FOX SPORTS 2
-http://dmtn.tv:8080/steveny5997/54332611/117277
+http://dmtn.tv:8080/steveny5997/54332611/376428
 #EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US: NBC SPORTS BAY AREA HD" tvg-logo="http://dmtn.tv:8080/images/3MLIud8m5vRPxA2j4f15tZBFY3Im81QVgKO0wKg3jYgcxVa_VC5pVtZg88sz0OoU5nxG7o6NfPTXHlr6URY0Nw.png" group-title="体育",US: NBC SPORTS BAY AREA
-http://dmtn.tv:8080/steveny5997/54332611/71503
+http://dmtn.tv:8080/steveny5997/54332611/376434
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://192.168.5.1:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
