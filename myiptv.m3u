@@ -40,7 +40,7 @@ http://192.168.5.1:5678/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-高清
 http://192.168.5.1:4022/rtp/239.3.1.151:8144
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
-http://192.168.10.1:5678/sxg.php?id=ys4Kcq_2000
+http://192.168.5.1:5678/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1高清
 http://192.168.5.1:4022/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视高清
