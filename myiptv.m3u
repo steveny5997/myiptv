@@ -84,7 +84,7 @@ http://192.168.5.1:5678/gudou.php?phone=18301053185&ptoken=ITN8%2FMBY8rXlGJUI%2F
 #EXTINF:-1 tvg-name="" group-title="香港" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png",TVB星河
 https://kt-iptv.com/2209077624/12345/492384
 #EXTINF:-1 tvg-name="明珠台" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",TVB明珠
-https://kt-iptv.com/2209077624/12345/492386
+http://192.168.5.1:5678/gudou.php?phone=18301053185&ptoken=ITN8%2FMBY8rXlGJUI%2Fu7stg%3D%3D&pserialnumber=37edb2a406835fae&cid=364&id=1351_4500
 #EXTINF:-1 tvg-name="无线新闻" group-title="香港" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-news-hk.png",TVB無線新聞
 https://kt-iptv.com/2209077624/12345/492389
 #EXTINF:-1 tvg-name="无线财经" group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",TVB無線財經
@@ -131,7 +131,7 @@ https://kt-iptv.com/2209077624/12345/877061
 https://kt-iptv.com/2209077624/12345/892531
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育",ELEVEN体育二台
 https://kt-iptv.com/2209077624/12345/879532
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport.my" tvg-name="MY| EUROSPORT FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjK1axgz19hLe8acqXVeJ1h7nAI_uyPgkURSzTKcsn6Q.png" group-title="体育",EUROSPORT
+#EXTINF:-1 tvg-id="eurosport.my" tvg-name="MY| EUROSPORT FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjK1axgz19hLe8acqXVeJ1h7nAI_uyPgkURSzTKcsn6Q.png" group-title="体育",EUROSPORT
 http://dmtn.tv:8080/steveny5997/54332611/380002
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live204.jpg" group-title="欧美",CNN国际
 http://dmtn.tv:8080/steveny5997/54332611/378170
